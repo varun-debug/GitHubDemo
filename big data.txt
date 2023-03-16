@@ -1,0 +1,11 @@
+	
+        1. Volume: 1mb,1kb...1 tb.
+	2. Variety: Structure, unstructured, semi structure
+	3. Velocity: Batch, real-time..
+	4. Veracity: Trust in terms of accuracy. i.e. How data is accurate 
+	5. Value: To generate value from the data. i.e. Structure dataset e.g. Name, id, sal, bonus, exp, balance so need to made decision that the person should be given credit card or not. The credit card be in silver, gold, platinum. So the name and id columns will be no use to make decision. i.e. have no values for that two columns but balance and sal is needed value to make decision.
+	
+Definition: A data with a huge volume and different different kind of veracity and different different kind of velocity is called as a big data
+
+
+Another Def.: A data which combines volume, variety and velocity and if i am able to process that particular data in a respective system for respective project that is called a big data.
