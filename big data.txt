@@ -9,3 +9,5 @@ Definition: A data with a huge volume and different different kind of veracity a
 
 
 Another Def.: A data which combines volume, variety and velocity and if i am able to process that particular data in a respective system for respective project that is called a big data.
+
+hello world
