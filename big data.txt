@@ -13,5 +13,3 @@ Another Def.: A data which combines volume, variety and velocity and if i am abl
 
 hello world
 =======
-
-
